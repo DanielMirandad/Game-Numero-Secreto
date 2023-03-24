@@ -3,7 +3,7 @@
 
 In this training, all barriers were overcome and I was able to further deepen my knowledge in HTML, CSS and mainly in JavaScript.
 
-I created an entire application from scratch: I structured the HTML, styled the CSS, and developed a speech-recognition game with JavaScript.
+I could created an entire application from scratch: I could structured the HTML, styled the CSS, and developed a speech-recognition game with JavaScript.
 
 
 Pt - Br
