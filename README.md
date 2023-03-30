@@ -1,4 +1,4 @@
-# Game-Numero-Secreto
+# Game-Number-Secret
 
 
 In this training, all barriers were overcome and I was able to further deepen my knowledge in HTML, CSS and mainly in JavaScript.
